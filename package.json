@@ -1,0 +1,19 @@
+{
+  "name": "imdb-documentary",
+  "version": "1.0.0",
+  "description": "imdb documentary movies database minimum 100000(- or +)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.10",
+    "jsdom": "^16.6.0",
+    "json2csv": "^5.0.6",
+    "node-fetch": "^2.6.1",
+    "puppeteer-core": "^10.0.0"
+  }
+}
